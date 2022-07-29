@@ -1,5 +1,7 @@
 # Maze Runner 
 
+Link: https://maze-shortest-path-algorithm.netlify.app/
+
 ```sh
   npm install
 ```
