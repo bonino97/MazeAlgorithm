@@ -1,0 +1,36 @@
+.actions-wrapper {
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  max-width: 80%;
+  padding: 1rem;
+}
+
+.play-button {
+  cursor: pointer;
+  background: #000000;
+  border-radius: 200px;
+  border: 0;
+  height: 48px;
+  padding: 14px 34px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  color: white;
+  font-style: normal;
+  font-weight: bold;
+}
+
+.play-button:hover {
+  background-color: #2a2a2a;
+}
+
+.moves-text {
+  margin: auto 0 auto 0;
+  font-family: "Gilroy", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 1.25em;
+  color: black;
+}
