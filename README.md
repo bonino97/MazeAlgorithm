@@ -7,7 +7,9 @@
 ### Done: 
 
 [X] - Implement A* Algorithm to automatically solve the Maze & found the best way to Solve.
+
 [X] - Improve Structure.
+
 [X] - Add PropTypes in Components.
 
 ### ToDo:
